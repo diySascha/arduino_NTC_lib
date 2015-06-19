@@ -12,10 +12,15 @@ Folder contents:
 /example
   /NTC_Sensor
     NTC_Sensor.ino - Example Sketch
+    
 keywords.txt
+
 library.properties
+
 NTC.cpp
+
 NTC.h
+
 
 You need find everything in the Example Sketch.
 It is really easy.
