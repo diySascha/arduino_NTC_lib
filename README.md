@@ -9,6 +9,7 @@ http://garagelab.com/profiles/blogs/tutorial-using-ntc-thermistors-with-arduino
 And now have fun wit my 1st lib.
 
 Folder contents:
+
 /example
   /NTC_Sensor
     NTC_Sensor.ino - Example Sketch
